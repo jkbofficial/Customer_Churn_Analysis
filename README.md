@@ -17,7 +17,7 @@ Provides actionable insights into factors contriburting to churn, such as accoun
 Easy-to-use, dynamic visualization for decision-makers to monitor and reduce churn.
 
 
-***Tools***
+***Tools:***
 
 1.Power BI for visualization
 
