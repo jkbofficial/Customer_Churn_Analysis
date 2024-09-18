@@ -22,4 +22,4 @@ Easy-to-use, dynamic visualization for decision-makers to monitor and reduce chu
 1.Power BI for visualization
 
 
-This repository contains the dataset, Power BI dashboard to replicate and undestand analsis.
+This repository contains the dataset, Power BI dashboard to replicate and undestand analysis.
